@@ -3,3 +3,9 @@ print(type(name))
 
 ask = "how are you?."
 print(type(ask)
+
+dic = 
+{
+  101:"rohit",
+  102:"aaryan"
+}
