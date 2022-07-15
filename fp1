@@ -1,2 +1,5 @@
 name = "rohit"
 print(type(name))
+
+ask = "how are you?."
+print(type(ask)
